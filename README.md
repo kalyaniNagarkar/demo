@@ -1,4 +1,4 @@
 # demo
 This is my first git repo. 
 <br>
-Author - Kalyani Nagarkar
+Author - Kalyani Anand Nagarkar
