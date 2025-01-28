@@ -88,4 +88,5 @@ public class MainTest {
             assertEquals("Division by zero is not allowed", e.getMessage());
         }
     }
+
 }
