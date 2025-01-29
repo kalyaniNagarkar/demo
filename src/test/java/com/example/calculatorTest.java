@@ -3,7 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class MainTest {
+public class calculatorTest {
     private static final double DELTA = 1e-15;  // Delta for double comparison
     private Main calculator;
 
