@@ -1,6 +1,6 @@
 package com.example;
 
-public class Main {
+public class calculator {
 
     double num1, num2;
 
