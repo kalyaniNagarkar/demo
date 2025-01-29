@@ -21,6 +21,7 @@ jobs:
     - name: Create GitHub Release
       id: create_release
       uses: actions/create-release@v1
+      continue-on-error: true  # <-- Only new line
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Add this line
       with:
